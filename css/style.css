@@ -34,7 +34,7 @@ header {
   background-color: #222222;
 }
 
-.header.container {
+header.container {
   min-height: 400px;
   padding-top: 50px;
   padding-bottom: 180px;
